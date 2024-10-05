@@ -1,0 +1,10 @@
+let x int = 8
+let y string = "Hello World!"
+fun main(x int, y string)
+    if x > 7
+        printf(y + " Your lucky number is ", x)
+    else
+        printf("Hmm...")
+    end
+end
+main(x, y)
