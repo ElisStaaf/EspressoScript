@@ -5,8 +5,8 @@ popular on Github. Oh wait! I have to continue!
 
 Requirements
 ------------
-Git or Gh (optional)
-Go (optional)
+- Git or Gh (optional)
+- Go (optional)
 
 Install
 -------
