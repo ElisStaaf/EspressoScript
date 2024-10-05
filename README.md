@@ -18,8 +18,8 @@ git clone https://ElisStaaf/EspressoScript
 # Gh
 gh repo clone ElisStaaf/EspressoScript
 
-# Curl
-echo "I don't know, fix it yourself."
+# cURL
+echo "Fix it yourself."
 ```
 Or i *guess* you could build from zip? Building from go is also easy, simply:
 ```bash
@@ -27,7 +27,7 @@ Or i *guess* you could build from zip? Building from go is also easy, simply:
 go build src/EspressoScript.go
 
 ```
-Yeah, you've officially installed it.
+Yeah, you've officially installed it now. Do something cool!
 
 Tutorial
 --------
@@ -66,4 +66,4 @@ greet("Maria", 45)
 greet("Bob", 27)
 ```
 They are pretty cool! But most of them also don't... Really work... Right now. This is a WIP, alright? So, yeah, contribute
-please, we need your help.
+please, we need your help. I'm not a good programmer. I'm going to sleep. Enjoy!
