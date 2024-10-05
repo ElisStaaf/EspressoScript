@@ -41,7 +41,7 @@ fun main()
    printf("Hello World!") 
 end
 ```
-Interesting, i know. No, it has some other features. These being:
+Interesting, i know. No, it has some other features. These being:  
 **Variables**
 ```javascript
 let luckyNumber int = 777
